@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="jsdemo">
+    <output-path>$PROJECT_DIR$/WebRoot/artifacts/jsprunutf8_war</output-path>
+    <root id="archive" name="jsdemo.war">
+      <element id="artifact" artifact-name="jsprunutf8:war exploded" />
+    </root>
+  </artifact>
+</component>
